@@ -50,6 +50,10 @@ Build and Deploy to Google Cloud with Antigravity: This codelab shows how to des
 Reference docs
 Official Site : https://antigravity.google/
 Documentation: https://antigravity.google/docs/home
+
+
+
+https://www.youtube.com/watch?v=3p45eLiUWIw
 Use cases : https://antigravity.google/use-cases
 Download : https://antigravity.google/download
 Youtube Channel for Google Antigravity : https://www.youtube.com/@googleantigravity
