@@ -28,9 +28,14 @@
 
                     
 Assignment 1 
+   
+    
     https://codelabs.developers.google.com/getting-started-google-antigravity#0?utm_medium=email&utm_source=gamma&utm_campaign=learn-intensive-assignment1-june-2026
+
+
 
 Asssignment 2 
 
+      
       https://codelabs.developers.google.com/deploy-from-aistudio-to-run?hl=en#0?utm_medium=email&utm_source=gamma&utm_campaign=learn-intensive-assignment1-june-2026
 
