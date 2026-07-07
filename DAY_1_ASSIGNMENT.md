@@ -39,3 +39,17 @@ Asssignment 2
       
       https://codelabs.developers.google.com/deploy-from-aistudio-to-run?hl=en#0?utm_medium=email&utm_source=gamma&utm_campaign=learn-intensive-assignment1-june-2026
 
+
+
+Earn your Kaggle 5-Day AI Agents badge
+Completed this lab as part of Kaggle's 5-Day AI Agents: Intensive Vibe Coding Course with Google? Claim your completion badge: Get the 5-Day AI Agents badge.
+
+What's Next? To see Antigravity in action building real-world applications, you can look at the following codelab:
+
+Build and Deploy to Google Cloud with Antigravity: This codelab shows how to design, build, and deploy a serverless application to Google Cloud.
+Reference docs
+Official Site : https://antigravity.google/
+Documentation: https://antigravity.google/docs/home
+Use cases : https://antigravity.google/use-cases
+Download : https://antigravity.google/download
+Youtube Channel for Google Antigravity : https://www.youtube.com/@googleantigravity
